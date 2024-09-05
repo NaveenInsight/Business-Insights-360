@@ -2,7 +2,7 @@
 
 [Link to Interactive dashboard](https://app.powerbi.com/groups/me/reports/10c62d9a-13d7-4608-be33-f2a436767900/ReportSection0ac825050d6b67146c3e?experience=power-bi)
 
-
+[Link to Presentation](https://youtu.be/3dRKcyZJJz8)
 
 AtliQ Hardware, a rapidly expanding company, adopted Power BI for data analytics to enhance its competitive advantage and make informed business decisions. I, Naveenraj, completed this project by following the Codebasics Power BI Course, utilizing various tools and techniques to gain insights into key areas like finance, sales, marketing, and supply chain.
 
