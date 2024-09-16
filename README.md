@@ -1,6 +1,6 @@
 # Business Insights 360 of Atliq Hardwares
 
-[Link to Interactive dashboard](https://app.powerbi.com/groups/me/reports/10c62d9a-13d7-4608-be33-f2a436767900/ReportSection0ac825050d6b67146c3e?experience=power-bi)
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQ3YmFhMzktZDY0OC00YmE5LTlmNGUtMTcxN2MzMTJhMGIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 [Link to Presentation](https://youtu.be/3dRKcyZJJz8)
 
